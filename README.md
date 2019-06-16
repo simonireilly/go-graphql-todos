@@ -8,11 +8,11 @@ This is an example of using golang, with gqlgen to create a graphql API.
 
 ## Overview
 
-This is a code along for the excellent into to gqlgen at: https://gqlgen.com/getting-started/
+This is a code along for the excellent intro to gqlgen at: https://gqlgen.com/getting-started/
 
 ## Plans
 
-1. Implement this example
-2. Expand the example to consider some advanced topics
+1. Implement this example.
+2. Expand the example to consider some advanced topics:
    1. Authentication
    2. CORS
